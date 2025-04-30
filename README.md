@@ -1,8 +1,11 @@
 # Forest Cover Type Prediction
 
+## Introduction
+
+
 This project uses machine learning techniques to predict the type of forest cover based on various cartographic attributes.
 It aims to aid environmental researchers and forestry departments in understanding and classifying different forest regions more efficiently.
-The best model was LightGBM with accuracy of 88.5%
+The best model is LightGBM with accuracy of 88.5% and F1 score of 88.6% .
 
 ## Features
 
@@ -24,7 +27,7 @@ The best model was LightGBM with accuracy of 88.5%
 
 ```
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repository:
 
@@ -47,11 +50,6 @@ The best model was LightGBM with accuracy of 88.5%
 
 4. Open your browser and visit: `http://192.168.29.148:8501`
 
-## 📽️ Demo Video
+## Demo Video
 
 ![Demo](readme_resources/demo.gif)
-
-
-## 🧾 License
-
-This project is licensed under the MIT License.
